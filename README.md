@@ -1,2 +1,2 @@
-
-This lab is about use of the jQuery JavaScript and implementation of Form Validation
+# WEBD6201-W2022-Lab-3
+Lab 3 for WEBD6201
