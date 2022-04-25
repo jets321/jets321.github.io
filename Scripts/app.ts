@@ -1,3 +1,6 @@
+// Jethusan Sutheswaran
+// 100645837
+// April 24th, 2022
 // IIFE -- Immediately Invoked Function Expression
 // AKA -- Anonymous Self-Executing Function
 (function()

@@ -1,6 +1,6 @@
 // Jethusan Sutheswaran
 // 100645837
-// March 24th, 2022
+// April 24th, 2022
 "use strict";
 (function () {
     function AuthGuard() {
@@ -81,10 +81,10 @@
         $("#AboutUsButton").on("click", () => {
             LoadLink("about");
         });
-        $("main").append(`<p id="MainParagraph" class="mt-3">This is the Main Paragraph</p>`);
-        $("main").append(`<article>
-        <p id="ArticleParagraph" class ="mt-3">This is the Article Paragraph</p>
-        </article>`);
+        //$("main").append(`<p id="MainParagraph" class="mt-3">This is the Main Paragraph</p>`);
+        // $("main").append(`<article>
+        // <p id="ArticleParagraph" class ="mt-3">This is the Article Paragraph</p>
+        // </article>`);
     }
     function DisplayProductsPage() {
         console.log("Products Page");
